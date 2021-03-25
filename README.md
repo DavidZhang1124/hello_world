@@ -1,8 +1,1 @@
-#include <stdio.h>
-#include <iostream>
-
-int main()
-{
-    std::cout<<"hello world"<<std::endl;
-    return 0;
-}
+我的第一个github程序
