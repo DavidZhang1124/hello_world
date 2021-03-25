@@ -1,2 +1,8 @@
-update_1
-# hello_world
+#include <stdio.h>
+#include <iostream>
+
+int main()
+{
+    std::cout<<"hello world"<<std::endl;
+    return 0;
+}
